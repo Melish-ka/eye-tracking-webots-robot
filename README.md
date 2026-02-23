@@ -54,3 +54,8 @@ Digital-Twin-Webots-Tutorial-Video by ennuikat
 https://github.com/ennuikat/Digital-Twin-Webots-Tutorial-Video
 
 The model was modified and customized to fit this simulation.
+
+## Author
+Melika shahbazi zade
+Electrical Engineer | Control Systems
+contact: melikashahbazizade@gmail.com
