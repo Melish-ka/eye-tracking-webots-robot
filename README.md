@@ -22,9 +22,9 @@ Webots robot simulation controlled by eye tracking (left, right, up, down), keyb
 <img width="1920" height="903" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/65bf1c56-3c8a-4e44-9a13-5c2fc9d5211a" />
 
 ## How to Use
-1- open "myworld.wbt" (or your custom design).
-2- From file menu, click **Import 3D Models** and open "Robot7.wrl".
-3- Run the simulation.
+- open "myworld.wbt" (or your custom design).
+- From file menu, click **Import 3D Models** and open "Robot7.wrl".
+- Run the simulation.
 
 ## Keyboard Control
 you can control the robot using:
