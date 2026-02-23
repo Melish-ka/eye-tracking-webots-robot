@@ -35,6 +35,7 @@ you can control the robot using:
 
 ## Eye Tracking Mode
 Press **E** to activate eye tracking mode and wait a few seconds.
+For deactivate press **ESC**
 
 For best performance:
 - Position your device so the camera can clearly see your eyes.
